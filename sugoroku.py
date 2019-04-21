@@ -11,3 +11,5 @@ except KeyboardInterrupt as e:
 if dummy=='q':
     print('ゲームを終わりにします')
     sys.exit(1)
+
+print('end')
