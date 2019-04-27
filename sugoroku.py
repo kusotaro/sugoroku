@@ -11,7 +11,7 @@ while True:
 
         print("文字を入れろよデコスケ野郎！")
     if dummy == "q":
-        print("ゲームを終わりにします")
+        print("ゲームを終わりにします。")
         sys.exit(1)
     print("入力された値は", dummy, "です。")
 print("end!")
